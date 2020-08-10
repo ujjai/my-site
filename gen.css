@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quotes{
+    background-color: cyan;
+    
+    justify-content: center;
+    
+}
+
+.heading{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: ivory;
+}
+
+.buttons{
+    height: 60px;
+    width: 300px;
+    justify-content: right;
+    align-items: center;
+}
